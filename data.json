@@ -1,0 +1,44 @@
+{
+    "CHICKEN": {
+        "cost": 0.013,
+        "protein": 0.1,
+        "fat": 0.08,
+        "fibre": 0.001,
+        "salt": 0.002
+    },
+    "BEEF": {
+        "cost": 0.008,
+        "protein": 0.2,
+        "fat": 0.1,
+        "fibre": 0.005,
+        "salt": 0.005
+    },
+    "MUTTON": {
+        "cost": 0.010,
+        "protein": 0.15,
+        "fat": 0.11,
+        "fibre": 0.003,
+        "salt": 0.007
+    },
+    "RICE": {
+        "cost": 0.002,
+        "protein": 0.0,
+        "fat": 0.01,
+        "fibre": 0.1,
+        "salt": 0.002
+    },
+    "WHEAT": {
+        "cost": 0.005,
+        "protein": 0.04,
+        "fat": 0.01,
+        "fibre": 0.15,
+        "salt": 0.008
+    },
+    "GEL": {
+        "cost": 0.001,
+        "protein": 0.0,
+        "fat": 0.0,
+        "fibre": 0.0,
+        "salt": 0.0
+    }
+}
